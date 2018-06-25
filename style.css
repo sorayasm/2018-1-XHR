@@ -1,0 +1,8 @@
+img {
+    width="0";
+    height="0";
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    background-position: 0px 0px;
+}
